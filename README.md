@@ -1,185 +1,105 @@
 # Hi, I'm Witold Włuczkowski 👋
 
-Software Engineer with 4+ years of commercial experience building internal tools, automation frameworks, and backend solutions in Python and Java.
+Software Engineer with 4+ years of commercial experience building backend systems, internal tools, and automation frameworks in Python and Java.
 
-My professional journey is somewhat unconventional. Before transitioning into software engineering, I spent nearly seven years working in specialty coffee shops across Poland and the United Kingdom, developing strong communication, teamwork, and problem-solving skills in fast-paced environments. Later, I spent over three years teaching programming to children, introducing them to Java, object-oriented programming, algorithms, and Minecraft mod development.
+My background is non-linear: I spent nearly seven years working in specialty coffee shops across Poland and the UK, which developed strong communication and teamwork skills. Later, I spent over three years teaching programming to children, focusing on Java, OOP, algorithms, and Minecraft mod development.
 
-Today, I combine technical expertise with strong communication skills to build reliable software, collaborate effectively with teams, and share knowledge through mentoring, documentation, and presentations.
+Today, I combine software engineering with strong communication and mentoring skills to build reliable systems, automate processes, and improve developer productivity.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Featured Projects
 
-- Backend development with Python and Java
-- Internal tooling and developer productivity solutions
-- Test automation and software quality engineering
-- CI/CD pipelines and release automation
-- CLI application development
-- Monitoring and observability with Grafana
-- AI-assisted development and workflow optimization
-- Working in Linux-based environments and remote systems via SSH
-- Operating and debugging services on virtual machines (VMs)
-- Working with web servers and reverse proxies (e.g. Nginx)
-- Technical documentation and knowledge sharing
+- 🔗 DnD App (Docker + Web App): https://dnd-docker.onrender.com/
+- 🔗 Flat Prices Analyzer: https://flatanalyzer.onrender.com/
+- 🔗 Portfolio Website: https://earthalign.github.io/witoldwluczkowski/portfolio.html
+- 🔗 Master’s Thesis (ML / scikit-learn): https://github.com/Earthalign/Non_Refactored_Masters_thesis_ML
 
 ---
 
 ## 💼 Professional Experience
 
-Currently working as a Software Engineer at Nokia, where I design and develop Python-based automation solutions supporting large-scale telecommunications projects.
+### Software Engineer – Nokia
 
-My responsibilities include:
+I currently work on Python-based automation systems supporting large-scale telecom infrastructure.
 
-- Developing high-performance Python applications and CLI tools
-- Building automation frameworks for network-related workflows
-- Designing diagnostic and log-analysis tools used by engineering teams
-- Creating and maintaining Jenkins and GitLab CI/CD pipelines
-- Developing Grafana dashboards and monitoring solutions
-- Working in Linux environments, including remote servers accessed via SSH
-- Managing and debugging services running on virtual machines (VMs)
-- Configuring and maintaining Nginx for routing, proxying, and internal service exposure
-- Writing automated test suites with pytest and Robot Framework
-- Performing code reviews and maintaining high code quality standards
-- Troubleshooting complex production issues and performing root-cause analysis
-- Maintaining technical documentation and API specifications
-- Exploring practical applications of AI and LLM-based solutions to improve engineering workflows
+Key areas:
 
-Previously, I worked as a Software Working Student at Nokia, contributing to Java and Python applications, backend services, REST APIs, and legacy system modernization.
+- Backend development (Python CLI tools, automation frameworks)
+- CI/CD pipelines (Jenkins, GitLab CI/CD)
+- Linux environments, SSH-based remote development, VM infrastructure
+- Log analysis tools and internal diagnostic systems
+- Grafana dashboards and monitoring solutions
+- Test automation (pytest, Robot Framework)
+- Nginx configuration and service routing in internal environments
+- Code reviews, debugging, and production issue troubleshooting
+- Technical documentation and API design
+- AI-assisted development and workflow optimization
+
+### Software Working Student – Nokia
+
+- Java backend development (OOP, REST APIs, Hibernate)
+- Python scripting and automation
+- Legacy system modernization
+- Agile team collaboration (Scrum, Jira)
 
 ---
 
 ## 🎓 Education & Research
 
-Master's Degree in Programming
+Master’s Degree in Programming
 
-My Master's thesis focused on Machine Learning and data analysis:
+Thesis:
+**Analysis of Feature Selection Methods for Selected Datasets and Binary Classification Algorithms**
 
-"Analysis of Feature Selection Methods for Selected Datasets and Binary Classification Algorithms"
-
-The research involved:
-
-- Python
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- machine learning pipelines
-- feature selection techniques
-- binary classification models
-- data analysis and evaluation
-
-This work strengthened my interest in AI, machine learning, and data-driven software engineering.
+Technologies:
+- Python, Jupyter Notebook
+- scikit-learn, pandas
+- Machine Learning pipelines
+- Binary classification & feature selection
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages:** Python, Java, SQL, Bash  
 
-- Python
-- Java
-- SQL
-- Bash
+**Backend:** FastAPI, Django, Flask, REST APIs, OOP, Design Patterns  
 
----
+**Infrastructure:** Linux, SSH, VMs, WSL, Docker (personal/dev use), Nginx (dev setups), Kubernetes (learning)
 
-### Backend & Development
+**Testing:** Pytest, Robot Framework, Unit & Integration Testing  
 
-- FastAPI
-- Flask
-- Django
-- REST APIs
-- OOP
-- Design Patterns
+**DevOps:** Jenkins, GitLab CI/CD, Git  
+
+**Monitoring:** Grafana, log analysis  
+
+**AI/ML:** OpenAI, Claude, Gemini, scikit-learn, pandas, Jupyter  
+
+**Tools:** Agile, Scrum, Jira, Confluence  
 
 ---
 
-### Infrastructure & Systems
+## 🤖 Interests
 
-- Linux (daily development and production environments)
-- SSH-based remote development
-- Virtual Machines (VMs)
-- WSL (Windows Subsystem for Linux)
-- Docker (used in development and personal projects)
-- Nginx (configuration and troubleshooting in development environments)
-- Kubernetes (currently learning and building hands-on understanding through personal projects)
+- AI Agents & LLM systems
+- RAG architectures
+- Developer productivity tools
+- Workflow automation
+- Software engineering efficiency
 
 ---
 
-### Testing & Quality
+## 🌱 Background
 
-- Pytest
-- Robot Framework
-- Unit Testing
-- Integration Testing
-- Test Automation
+Previously spent nearly 7 years in specialty coffee industry (Poland & UK), building strong soft skills and working under pressure.
 
----
-
-### DevOps & Delivery
-
-- Jenkins
-- GitLab CI/CD
-- Git
-- Release pipelines
-
----
-
-### Monitoring & Observability
-
-- Grafana
-- Log Analysis
-- Performance Monitoring
-
----
-
-### AI & Data Science
-
-- OpenAI
-- Claude
-- Gemini
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- Machine Learning
-
----
-
-### Tools & Methodologies
-
-- Agile
-- Scrum
-- Jira
-- Confluence
-
----
-
-## 🤖 Current Interests
-
-I am particularly interested in the intersection of software engineering and artificial intelligence.
-
-Current areas of exploration:
-
-- AI Agents
-- LLM Integrations
-- Retrieval-Augmented Generation (RAG)
-- AI-powered Developer Tools
-- Workflow Automation
-- Software Engineering Productivity
-
-Outside of commercial projects, I regularly build personal applications and experiments to explore new technologies, architectures, and engineering practices.
-
----
-
-## 🌱 Beyond Engineering
-
-Before becoming a software engineer, I spent nearly seven years working in specialty coffee shops across Poland and the United Kingdom. This experience shaped my communication skills, ability to work under pressure, and customer-oriented mindset.
-
-I also spent over three years teaching programming to children, focusing on Java, OOP fundamentals, algorithms, and Minecraft mod development. This strengthened my passion for mentoring and explaining complex topics in a simple way.
+Also spent 3+ years teaching programming to children (Java, OOP, algorithms, Minecraft modding), which strengthened my ability to explain complex topics simply.
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: [https://www.linkedin.com/in/witold-włuczkowski-7b19491b9/](https://www.linkedin.com/in/witoldwluczkowski-dev/)
-- Portfolio: [https://earthalign.github.io/witoldwluczkowski/portfolio.html](https://earthalign.github.io/witoldwluczkowski/portfolio.html)
-- Instagram: https://www.instagram.com/donvitos_/
+- LinkedIn: https://www.linkedin.com/in/witoldwluczkowski-7b19491b9/
+- Portfolio: https://earthalign.github.io/witoldwluczkowski/portfolio.html
+- Instagram: https://www.instagram.com/donvitos/

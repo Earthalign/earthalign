@@ -11,6 +11,7 @@ Today, I combine software engineering with strong communication and mentoring sk
 ## 🚀 Featured Projects
 
 - 🔗 DnD App (Docker + Web App): https://dnd-docker.onrender.com/
+- 🔗 Interview Question Generator: https://interviewquestiongenerator.onrender.com/
 - 🔗 Flat Prices Analyzer: https://flatanalyzer.onrender.com/
 - 🔗 Portfolio Website: https://earthalign.github.io/witoldwluczkowski/portfolio.html
 - 🔗 Master’s Thesis (ML / scikit-learn): https://github.com/Earthalign/Non_Refactored_Masters_thesis_ML
